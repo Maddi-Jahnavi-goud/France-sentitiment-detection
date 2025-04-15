@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+matplotlib
+wordcloud
+textblob
+nltk
+requests
+beautifulsoup4
+imblearn
+streamlit
